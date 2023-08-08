@@ -1,1 +1,1 @@
-# My solutions for puzzles in Human Resource Machine
+My solutions for puzzles in Human Resource Machine
